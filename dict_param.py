@@ -1,0 +1,1 @@
+valid_actions = ["heal", "attack", "up", "down", "left", "right", "quit", "save"]
